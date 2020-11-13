@@ -7,15 +7,10 @@ Then show the average price of the products. Then show the names, in descending 
 # Input file:
 
 Tv,900.00
-
 Mouse,50.00
-
 Tablet,350.50
-
 HD Case,80.90
-
 Computer,850.00
-
 Monitor,290.00
 
 # Execution:
@@ -23,9 +18,6 @@ Monitor,290.00
 Average price: 420.23
 
 Tablet
-
 Mouse
-
 Monitor
-
 HD Case
